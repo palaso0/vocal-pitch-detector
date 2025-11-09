@@ -1,0 +1,8 @@
+
+{
+  "name": "Vocal Pitch Detector",
+  "description": "A real-time pitch detection application that visualizes the musical note of your voice as you sing into the microphone.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
